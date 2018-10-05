@@ -1,8 +1,9 @@
 {
-  "name": "my-app",
+  "name": "cra-sass-css-modules-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "node-sass": "^4.9.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
